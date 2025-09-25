@@ -47,7 +47,7 @@ php artisan serve
 
 ## 📡 API Endpoints Documentation
 
-Kindly check the Post export inside docs/EventBooking.postman_collection.json
+Kindly check the Postman export inside docs/EventBooking.postman_collection.json
 
 
 
